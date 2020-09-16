@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+ <img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=helloroman&count_private=true" />
+
+[website]: https://marcin.codes
+[instagram]: https://instagram.com/marckraw
+[instagram2]: https://instagram.com/marcin.codes
+[linkedin]: https://www.linkedin.com/in/adamromanski/
