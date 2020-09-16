@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 
  <img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=marckraw&count_private=true" />
+<img align="right" alt="My language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckraw&layout=compact" /> 
+
+
 
 [website]: https://marcin.codes
 [instagram]: https://instagram.com/marckraw
