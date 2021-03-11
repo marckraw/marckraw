@@ -12,7 +12,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on `All Javascript Stuff£`
+- 🔭 I’m currently working on `All Javascript Stuff`
 - 🌱 I’m currently learning `Next, Electron`
 
 
