@@ -25,4 +25,4 @@
  
 website: https://mrck.dev  
 instagram: https://instagram.com/marckraw  
-instagram2: https://instagram.com/mrckdev  
+instagram2: https://instagram.com/mrck.dev 
