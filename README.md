@@ -27,6 +27,3 @@
 [instagram]: https://instagram.com/marckraw
 [instagram2]: https://instagram.com/marcin.codes
 [linkedin]: https://www.linkedin.com/in/adamromanski/
-
-
-<a href="https://app.daily.dev/marckraw"><img src="https://api.daily.dev/devcards/3593a4d6a96546adb87752858b423ecc.png?r=8ox" width="200" alt="Marcin Krawczyk's Dev Card"/></a>
