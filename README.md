@@ -23,7 +23,6 @@
 
 
 
-[website]: https://marcin.codes
+[website]: https://mrck.dev
 [instagram]: https://instagram.com/marckraw
-[instagram2]: https://instagram.com/marcin.codes
-[linkedin]: https://www.linkedin.com/in/adamromanski/
+[instagram2]: https://instagram.com/mrckdev
