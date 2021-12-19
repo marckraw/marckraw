@@ -22,7 +22,7 @@
 -->
 
 
-
-[website]: https://mrck.dev
-[instagram]: https://instagram.com/marckraw
-[instagram2]: https://instagram.com/mrckdev
+ 
+website: https://mrck.dev  
+instagram: https://instagram.com/marckraw  
+instagram2: https://instagram.com/mrckdev  
