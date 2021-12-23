@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working on `All Javascript Stuff`
-- 🌱 I’m currently learning `Python, Django, NestJS, Express`
+- 🌱 I’m currently learning `Python, Django, NestJS, Express, Backend and Database stuff`
 
 
 <!--
