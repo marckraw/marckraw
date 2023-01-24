@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working on `All Javascript Stuff`
-- 🌱 I’m currently learning `Typescript, Dart, Flutter, Python`
+- 🌱 I’m currently learning `Typescript, Rust`
 
 
 <!--
