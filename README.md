@@ -20,9 +20,3 @@
  <br />
 <img align="left" alt="My language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckraw&layout=compact" /> 
 -->
-
-
- 
-website: https://mrck.dev  
-instagram: https://instagram.com/marckraw  
-instagram2: https://instagram.com/mrck.dev 
