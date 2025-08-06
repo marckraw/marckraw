@@ -11,7 +11,7 @@
 -->
 
 
-- 🔭 I’m currently working on `All Javascript Stuff`
+- 🔭 I’m currently working on `All Javascript Stuff` and all the Agents primitives and agentic workflows orchestrations :)
 - 🌱 I’m currently learning `Typescript`
 
 
